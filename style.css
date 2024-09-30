@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #d17813;
+}
+
+.navbar-brand, .navbar-nav {
+    color: white; /* Texto blanco */
+}
+
+#bienvenido {
+    color: white;
+}
+
+h6.font-weight-bold {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #d17813; 
+    position: fixed; /* El footer en la parte inferior */
+    bottom: 0; /* Al final del doc */
+    width: 100%; /* Ajusta el ancho */
+    left: 0; /* Desde la izq */
+}
+
+#convertir {
+    background-color: #d17813;
+    color: white;
+    border:  #d17813;
+    border-radius: 5px;
+}
+
+.card-img-top{
+    padding-bottom: 
+    width: 150px; /* Ajusta el ancho de las imgs */
+    height: 150px; /* Ajusta la altura de las imgs */
+    object-fit: cover; /* Recorta las imgs para llenar el área */
+}
+
+#celsius{
+    font-size: 1.4rem;
+    color: white;
+    background-color: #d17813;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#fahrenheit{
+    font-size: 1.4rem;
+    color: white;
+    background-color: #d17813;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#kelvin{
+    font-size: 1.4rem;
+    color: white;
+    background-color: #d17813;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
